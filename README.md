@@ -1,6 +1,8 @@
+![Image](./vittorio_vescio_gitHub_banner)
+
 ### Hi there 👋
 
-Welcome in my GitHub Profile! My name is Vittorio, I live in Italy and I'm a Neo Junior Full Stack Developer passionate in Technology!
+Welcome in my GitHub Profile! My name is Vittorio, I live in a wonderful town in the south of Italy and I'm a Neo Junior Full Stack Developer passionate about Technology!
 
 <!--
 **VittorioVescio92/VittorioVescio92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
