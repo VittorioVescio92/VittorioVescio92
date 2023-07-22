@@ -1,4 +1,4 @@
-![Image](./vittorio_vescio_gitHub_banner)
+![Image](./vittorio_vescio_gitHub_banner.png)
 
 ### Hi there 👋
 
