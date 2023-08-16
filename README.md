@@ -8,7 +8,7 @@ Welcome in my GitHub Profile! My name is Vittorio, I live in a wonderful town in
 JavaScript | React | REDUX | SASS | HTML | Bootstrap | CSS.
 
 ### Back-End: 
-Java | SQL | PostgreSQL | JPA | Spring 
+Java | SQL | PostgreSQL | JPA | Spring | JSON Web Tokens | BCrypt.
 
 ## Contacts
 vesvit@yahoo.it
