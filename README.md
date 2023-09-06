@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome in my GitHub Profile! My name is Vittorio, I live in a wonderful town in the south of Italy and I'm a Neo Junior Full Stack Developer passionate about Technology and Mountain Biking! :smiling_face_with_three_hearts: 	:desktop_computer: :bicyclist: 
+Welcome to my GitHub Profile! My name is Vittorio, I live in a wonderful town in the south of Italy and I'm a Neo Junior Full Stack Developer passionate about Technology and Mountain Biking! :smiling_face_with_three_hearts: 	:desktop_computer: :bicyclist: 
 
 ### Front-End: 
 JavaScript | React | REDUX | SASS | HTML | Bootstrap | CSS.
